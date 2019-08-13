@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package>
+    <name>AdvertiseSuggestedProducts</name>
+    <version>1.0.0</version>
+    <stability>stable</stability>
+    <license uri="http://opensource.org/licenses/osl-3.0.php">OSL</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Advertise Suggested Products will automatically populate your Cross-Sells, Upsells and Related Products helping customers find their perfect purchase.</summary>
+    <description>Why spend hours and hours setting all of the different magento product relationships - cross-sells, up-sells and related products - when you can use one extension to populate them all.&#xD;
+&#xD;
+Advertise Suggested Products can intelligently pick products for each of these relationship types saving you hours of hard-work.</description>
+    <notes>v.1.0.0 - This version works&#xD;
+&#xD;
+</notes>
+    <authors><author><name>Michael</name><user>Oxley</user><email>mike@adverti.se</email></author></authors>
+    <date>2012-10-22</date>
+    <time>12:28:37</time>
+    <contents><target name="mage"><dir name="."><file name="README-Advertise-Suggested-Products.txt" hash="8234ec242f363676cd476588eb773b78"/></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.2.0</min><max>6.0.0</max></php><package><name>AdvertiseCommunity</name><channel>community</channel><min>1.2.0</min><max>1.2.9</max></package><package><name>AdvertiseRelatedProducts</name><channel>community</channel><min>1.1.0</min><max>1.5.0</max></package><package><name>AdvertiseUpsellProducts</name><channel>community</channel><min>1.0.0</min><max>1.5.0</max></package><package><name>AdvertiseCrossSellProducts</name><channel>community</channel><min>1.0.0</min><max>1.5.0</max></package></required></dependencies>
+</package>
