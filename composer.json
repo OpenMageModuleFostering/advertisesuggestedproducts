@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/AdvertiseSuggestedProducts",
+    "name": "OpenMageModuleFostering\/AdvertiseSuggestedProducts",
     "type": "magento-module",
     "license": "OSL",
     "homepage": "",
     "description": "Advertise Suggested Products brings together three of our modules to automatically populate your Cross-Sells, Upsells and Related Products helping customers find their perfect purchase.",
     "authors": [
-    {
-        "name": "Michael",
-        "email": "mike@adverti.se"
-    }
-],
+        {
+            "name": "Michael",
+            "email": "mike@adverti.se"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
